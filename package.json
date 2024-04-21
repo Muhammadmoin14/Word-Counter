@@ -1,0 +1,21 @@
+{
+  "name": "word-counter",
+  "version": "1.0.0",
+  "description": "\"Word Counter CLI app in TypeScript. Analyze word, character, and line count of text files. Fast, customizable, and easy-to-use. Built for efficiency.\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.19"
+  }
+}
